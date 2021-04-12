@@ -1,0 +1,11 @@
+1942,Germany,Messerschmitt,fighter,621,v12 piston,1
+1940,UK,Spitfire,fighter,580,v12 piston,1
+1940,USA,B-17,bomber,462,9-cylinder radial,4
+1944,USA,Mustang,fighter,703,v12 piston,1
+1943,Japan,Zero,fighter,547,v14 radial,1
+1946,USA,Bell X-1,experimental,1556,rocket engine,1
+1951,USSR,MiG-17,fighter,1145,turbojet,1
+1960,USA,B-52,107,bomber,turbojet,8
+1960,USA,X-15,experimental,7274,liquid-fuel rocket,1
+2005,USA,F-22 Raptor,fighter,2686,turbofan,2
+1989,USA,747,passenger,988,turbofan,4

@@ -1,0 +1,12 @@
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.vbprojAssemblyReference.cache
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.Form1.resources
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.Resources.resources
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.vbproj.GenerateResource.cache
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.vbproj.CoreCompileInputs.cache
+C:\Users\2359523\source\repos\paintSac\paintSac\bin\Debug\paintSac.exe.config
+C:\Users\2359523\source\repos\paintSac\paintSac\bin\Debug\paintSac.exe
+C:\Users\2359523\source\repos\paintSac\paintSac\bin\Debug\paintSac.pdb
+C:\Users\2359523\source\repos\paintSac\paintSac\bin\Debug\paintSac.xml
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.exe
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.xml
+C:\Users\2359523\source\repos\paintSac\paintSac\obj\Debug\paintSac.pdb

@@ -1,0 +1,8 @@
+Student,Subject,Score
+John,Maths,70
+Tracy,Maths,65
+Henry,Maths,45
+William,Maths,70
+Barbara,Maths,-1
+Sally,Maths,49
+Peter,Maths,50
